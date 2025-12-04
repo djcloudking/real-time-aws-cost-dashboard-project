@@ -101,6 +101,6 @@ cd real-time-aws-cost-dashboard
 
 ## Screenshots
 
-Find every screenshots of my QuickSight dashboard, Lambda logs, and SNS alerts here: https://cloudwithdj.com/track-and-optimize-aws-costs-with-a-custom-dashboard/ 
+Find every screenshots of my QuickSight dashboard, Lambda logs, and SNS alerts here: https://cloudwithdj.com/
 
 
